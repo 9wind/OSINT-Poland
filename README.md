@@ -1,6 +1,8 @@
 # OSINT-Poland
 List of the main services that focus on Poland and Polish-speaking communities
 
+- [REJESTRY PUBLICZNE](#firmy)
+
 ## Rejestry Publiczne
 
 - [Otwarte Dane](https://dane.gov.pl/pl)
