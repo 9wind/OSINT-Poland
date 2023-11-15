@@ -1,7 +1,35 @@
 # OSINT-Poland
-List of the main services that focus on Poland and Polish-speaking communities
+List of the main services that focus on Poland and Polish-speaking communities.
 
-- [REJESTRY PUBLICZNE](#firmy)
+Categories:
+
+- [REJESTRY PUBLICZNE](#rejestry-publiczne)
+- [ARCHIWA](#archiwa)
+- [SERWISY SPOŁECZNOŚCIOWE](#serwisy-społecznościowe)
+- [SERWISY RANDKOWE](#serwisy-randkowe)
+- [SEX RANDKI](#sex-randki)
+- [OSOBY I IDENTYFIKACJA](#rejestry-publiczne)
+- [REJESTRY OSOB](#rejestry-osób)
+- [FIRMY](#firmy)
+- [EDUKACJA](#edukacja)
+- [PRAWO](#prawo)
+- [BIZNES I RYNEK](#biznes-i-rynek)
+- [KSIĄŻKI TELEFONICZNE ORAZ NUMERY TELEFONÓW](#książki-telefoniczne-oraz-numery-telefonów)
+- [WYSZUKIWARKI PLIKÓW](#wyszukiwarki-plików)
+- [DOMENY](#domeny)
+- [SKRACACZE LINKÓW](#skracacze-linków)
+- [FORA DYSKUSYJNE](#fora-dyskusyjne)
+- [INNE SERWISY](#inne-serwisy)
+- [MAPY I LOKALIZACJE](#mapy-i-lokalizacje)
+- [MAPY MORSKI](#transport-morski)
+- [TRANSPORT LOTNICZY](#transport-lotniczy)
+- [TRANSPORT LĄDOWY](#transport-lądowy)
+- [SIGINT](#sigint)
+- [SYSTEM INFORMACJI PRZESTRZENNEJ](#system-informacji-przestrzennej)
+- [ŹRÓDŁA INFORMACJI](#źródła-informacji)
+- [OPSEC](#opsec)
+- [SYMBOLE, JĘZYK I SLANG](#symbole-język-i-slang)
+- [SUBKULTURY - KIBICE](#subkultury---kibice)
 
 ## Rejestry Publiczne
 
