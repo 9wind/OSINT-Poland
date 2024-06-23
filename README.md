@@ -1,6 +1,6 @@
 # OSINT-Poland
 List of the main services that focus on Poland and Polish-speaking communities.
-- [Alternative Display](https://start.me/p/rx4q8r/polski-osint)
+- [Inny Wgląd](https://start.me/p/rx4q8r/polski-osint)
 
 Categories:
 
