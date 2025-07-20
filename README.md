@@ -70,10 +70,7 @@ Categories:
 - [Cebulka (TOR)](http://cebulka7uxchnbpvmqapg5pfos4ngaxglsktzvha7a5rigndghvadeyd.onion/)
 - [Fotka](https://fotka.com/)
 - [GG](https://www.gg.pl/gg/pl/search)
-- [Golden Line](https://www.goldenline.pl/)
 - [Hejto](https://www.hejto.pl/)
-- [Gloria](https://gloria.tv/)
-- [Karab](https://karab.in/)
 - [Lurker](https://lurker.land/)
 - [Mastodon](https://mastodon.online/search)
 - [Moblo](http://moblo.pl/)
@@ -89,7 +86,6 @@ Categories:
 - [Przeznaczeni - Dla ludzi z Wartościami](https://www.przeznaczeni.pl/)
 - [Randki w Sympatii](https://sympatia.onet.pl/)
 - [eDarling.pl](https://www.edarling.pl/)
-- [ZaadoptujFaceta.pl](https://www.zaadoptujfaceta.pl/)
 - [Mydwoje.pl - Biuro Matrymonialne](https://www.mydwoje.pl/)
 
 ## Sex Randki
@@ -109,7 +105,6 @@ Categories:
 - [Zaginieni](https://zaginieni.pl/home/)
 - [Zaginini.policja.pl](https://zaginieni.policja.pl/)
 - [Poszukiwani.policja.pl](https://poszukiwani.policja.pl/)
-- [Indeks Represjonowanych](https://indeksrepresjonowanych.pl/int/wyszukiwanie/94,Wyszukiwanie.html)
 - [Rejestr Sprawców Przestępstw na Tle Seksualnym](https://rps.ms.gov.pl/pl-PL/Public#/)
 - [Grobonoet - Wyszukiwarka Osób Pochowanych](https://grobonet.com/)
 - [Mogiły - Internetowa Baza Pochowanych](https://mogily.pl/start)
@@ -125,7 +120,6 @@ Categories:
 ## Rejestry Osób
 
 - [Rejestr Tłumaczy Przysięgłych](https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/tlumacze-przysiegli/lista-tlumaczy-przysieglych/search.html)
-- [Rejestr Biegłych](https://listabieglych.pl/)
 - [Rejestr Detektywów](https://www.gov.pl/web/mswia/rejestr-przedsiebiorcow-wykonujacych-dzialalnosc-regulowana-w-zakresie-uslug-detektywistycznych4)
 - [Rejestr Radców](https://rejestrradcow.pl/Home/Index)
 - [Rejestr Komorników Sądowych](https://arch-bip.ms.gov.pl/pl/rejestry-i-ewidencje/lista-komornikow-sadowych/)
@@ -154,11 +148,9 @@ Categories:
 - [Krajowy Rejestr Zadłużonych](https://krz.ms.gov.pl/#!/application/KRZPortalPUB/1.4/KrzPortalPubGui.StronaGlowna?params=JTdCJTdE&seq=0)
 - [CEIDG - Baza Przedsiębiorców](https://aplikacja.ceidg.gov.pl/ceidg/ceidg.public.ui/search.aspx)
 - [Aleo - Baza Firm](https://aleo.com/pl/)
-- [Giełda Długów - Vindix](https://gielda.vindix.pl/)
 - [Giełda Długów - Vindicat](https://vindicat.pl/gielda-dlugow/)
 - [Giełda Dłużników Wierzytelności Długów](https://gielda-dlugow.net/)
 - [Bazar Długów](https://www.bazar-dlugow.pl/)
-- [Giełda Wierzytelności](https://verif.pl/gielda)
 
 ## Edukacja
 
@@ -191,12 +183,12 @@ Categories:
 - [Gratka - Ogłoszenia](https://gratka.pl/)
 - [Główny Rynek GPW](https://www.gpw.pl/)
 - [StockWatch - Akcje](https://www.stockwatch.pl/)
+- [Qnews - Edukacja Inwestoró](https://qnews.pl/)
 
 ## Książki Telefoniczne oraz Numery Telefonów
 
 - [Dostawca Usług](https://bip.uke.gov.pl/numeracja/dostawca-uslug/)
 - [Rejestr Premium](https://bip.uke.gov.pl/wyszukiwarka-rejestr-premium)
-- [Kto Dzwonił - Wyszukiwarka Numerów](https://kto-dzwonil.com/)
 - [Kto to? - Wyszukiwarka Nieznanych Numerów](https://www.ktoto.info/)
 - [Nieznanynumer.pl - Najnowsze Oceny Numerów](https://www.nieznanynumer.pl/)
 - [Nieznany-numer.pl - Baza Nieznanych Numerów](https://www.nieznany-numer.pl/)
@@ -224,12 +216,10 @@ Categories:
 
 ## Skracacze Linków
 
-- [Shortener.pl](https://drop-sa.pl/)
 - [Linkd.pl](https://linkd.pl/)
 - [Utn.pl](https://utn.pl/)
 - [Tiny.pl](https://tiny.pl/)
 - [Cutt.ly](https://www.cutt.ly/pl)
-- [Ujeb.se](https://ujeb.se/)
 
 ## Fora Dyskusyjne
 
@@ -240,7 +230,6 @@ Categories:
 - [M-forum.pl](https://m-forum.pl/)
 - [Forum Ostrowiec Świętokrzyski](http://www.ostrowiecnr1.pl/forum/)
 - [Ateista.pl](https://ateista.pl/)
-- [Goldenline Grupy](https://www.goldenline.pl/grupy/)
 - [Forum Alfa Romeo - Alfaholicy](https://www.forum.alfaholicy.org/)
 - [Forum Nissan Klub Polska](https://forum.nissanklub.pl/)
 - [Forum Satkurier](https://forum.satkurier.pl/forum/23-hyde-park/)
@@ -251,7 +240,6 @@ Categories:
 - [Forum Paranormalium](https://forum.paranormalium.pl/)
 - [Forum Portalu Samorządowego](https://www.portalsamorzadowy.pl/forum/)
 - [Forum e-polityka.pl](http://forum.e-polityka.pl/)
-- [Forum w Polityce](https://wpolityce.pl/forum)
 - [Forum Libertarian](https://libertarianizm.net/)
 
 ## Inne Serwisy
@@ -370,7 +358,6 @@ Categories:
 
 - [Counterintelligence](https://counterintelligence.pl/)
 - [OsintQuest](https://osintquest.pl/)
-- [Zlotuszpaka](https://zlotuszpaka.pl/)
 - [Sekurak (OSINT)](https://sekurak.pl/tag/osint/)
 - [Rynek Informacji](https://rynekinformacji.pl/)
 - [Internet Czas Działać](https://www.internet-czas-dzialac.pl/)
@@ -413,7 +400,6 @@ Categories:
 - [Forum Niebiescy](https://forumniebiescy.pl/)
 - [Forum Kibiców Legii Warszawa](https://forum.legionisci.com/)
 - [Forum Kibiców Wisły Kraków](https://wislakrakow.com/forum/index.php)
-- [Forum Lecha](https://forum.kibicelecha.pl/)
 - [Forum Dyskusyjne Cracovii](https://cracovia.krakow.pl/?sort=latest)
 - [Forum Kibiców Śląska Wrocław](http://forumwks.pl/index.php)
 - [Forum Jagiellonii](https://www.forum-jagiellonii.pl/)
@@ -423,12 +409,9 @@ Categories:
 - [Forum Kibiców Wisłoki](https://www.wislokadebica.pl/forum/)
 - [Forum Unia Tarnów](https://forum.uniatarnow.net/)
 - [Forum Polonia Bytom](http://forum.polonia.bytom.pl/)
-- [Gryf Słupsk](http://gryfslupsk.com/)
 - [Góral Żywiec](http://www.goralzywiec.webd.pl/forum/index.php)
 - [Forum Hutnik Kraków](https://forum.hutnik.krakow.pl/)
 - [Zagłebie Sosnowiec](https://zaglebie.sosnowiec.pl/forum/)
-- [Forum ROW Rybnik](http://row.rybnik.pl/forum/index.php)
-- [Forum stali](http://www.forumstali.net/viewforum.php?f=8)
 - [Zyleta.info](http://zyleta.info/)
 - [Forum Kibiców Sandecji](http://www.sandecja.org/forum/viewforum.php?f=17)
 - [Forum Stomil Olsztyn](https://forum.stomilolsztyn.pl/)
