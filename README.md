@@ -53,6 +53,8 @@ Categories:
 - [Placówki NFZ](https://swiatprzychodni.pl/)
 - [Wykaz podmiotów Leczniczych](https://rejestrmedyczny.pl/)
 - [Rejestr Podmiotów Wykonujących Działalność Lecznicą](https://rpwdl.ezdrowie.gov.pl/RPM/Search)
+- [Przetargi i Zlecenia Budowalane](https://www.eurobudowa.pl/)
+- [Dane Publiczne IMGW](https://danepubliczne.imgw.pl/)
 
 ## Archiwa
 
@@ -63,6 +65,9 @@ Categories:
 - [Zbiory NAC (Archiwa Państwowe)](https://audiovis.nac.gov.pl/)
 - [Inwentarz IPN](https://inwentarz.ipn.gov.pl/)
 - [Wojskowe Biuro Historyczne](https://wbh.wp.mil.pl/pl/)
+- [Cyfrowa Wypożyczalnia](https://wbh.wp.mil.pl/pl/)
+- [Biblioteki Cyfrowe w Polsce](https://lustrobiblioteki.pl/biblioteki-cyfrowe-polsce/)
+- [Biblioteka Nauki](https://bibliotekanauki.pl/)
 
 ## Serwisy Społecznościowe
 
@@ -87,6 +92,7 @@ Categories:
 - [Randki w Sympatii](https://sympatia.onet.pl/)
 - [eDarling.pl](https://www.edarling.pl/)
 - [Mydwoje.pl - Biuro Matrymonialne](https://www.mydwoje.pl/)
+- [Datezone/](https://www.datezone.com/)
 
 ## Sex Randki
 
@@ -116,6 +122,7 @@ Categories:
 - [PGSA - Branch Genealogiczny w USA](https://pgsa.org/)
 - [Genealodzy - Serwis](https://genealodzy.pl/)
 - [Ornatowski - Pochodzenie Nazwisk](https://ornatowski.com/)
+- [Szukaj Nazwiska/](https://szukaj-nazwiska.pl/)
 
 ## Rejestry Osób
 
@@ -134,6 +141,8 @@ Categories:
 - [Rejestr Farmaceutów](https://crf.ezdrowie.gov.pl/Search)
 - [Rejestr Inżynierów i Architektów](https://e-crub.gunb.gov.pl/#search)
 - [Polska Izba Architektów](https://extranet.iarp.pl/lista/)
+- [Znajdź biegłego](https://znajdzbieglego.com/pl/)
+- [Spis Imamó](https://mzr.pl/imamowie/)
 
 ## Firmy
 
@@ -220,6 +229,7 @@ Categories:
 - [Utn.pl](https://utn.pl/)
 - [Tiny.pl](https://tiny.pl/)
 - [Cutt.ly](https://www.cutt.ly/pl)
+- [utn.pl](https://utn.pl/)
 
 ## Fora Dyskusyjne
 
@@ -285,6 +295,12 @@ Categories:
 - [Archiwum Map Zachodniej Polski](http://mapy.amzp.pl/)
 - [Baza Miejscowości Kresowych](https://www.kami.net.pl/kresy/)
 - [Inne Mapy Archiwalne Polski](http://igrek.amzp.pl/)
+- [Foyopolska](https://fotopolska.eu/)
+- [Mapy nodów w sieci FM](https://fm-poland.pl/mapa/)
+
+## Kamery
+
+- [Airmax Kamery](https://airmax.pl/streaming-kamery)
 
 ## Transport Morski
 
@@ -320,6 +336,7 @@ Categories:
 - [Portal Pasażera - Koleje](https://portalpasazera.pl/Plakaty)
 - [Przyjazdy.pl](https://przyjazdy.pl/)
 - [Jak Dojade](https://jakdojade.pl/onboarding)
+- [Atlas Kolejowy](https://www.atlaskolejowy.net/)
 
 ## SIGINT
 
@@ -369,6 +386,7 @@ Categories:
 ## OPSEC
 
 - [Payload](https://payload.pl/)
+- [Generowanie danych testowych](https://danetestowe.pl/generator)
 - [Blog DimensionX (TOR)](http://uo57sqpw4h3g3y3w2j346vxidgcv2iwfaxeyt3ww3tzkj2i5k7a5tpqd.onion/)
 - [Niepodam.pl (tymczasowy e-mail)](https://niepodam.pl/)
 - [Adrestymczasowy.pl (tymczasowy e-mail)](https://adrestymczasowy.pl/?rokofo73@03.tml.waw.pl)
@@ -389,6 +407,8 @@ Categories:
 - [Słownik Gwary](http://ciecina.eu/gwara/slownik)
 - [Wszystkie Symbole](https://wszystkiesymbole.pl/)
 - [Polskie Symbole Narodowe](https://zpe.gov.pl/a/polskie-symbole-narodowe/DYsZTMZx8)
+- [Słownik Kaszubski](https://kaszebe.org/)
+- [Słownik Kaszubski slowrz](https://sloworz.org/)
 
 ## Subkultury - Kibice
 
